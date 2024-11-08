@@ -1,0 +1,7 @@
+body{
+    margin-top: 200px;
+    margin-left: 400px;
+    margin-bottom: 500px;
+    background-image: url(/src/assets/data.jpeg);
+    background-origin: border-box;
+}

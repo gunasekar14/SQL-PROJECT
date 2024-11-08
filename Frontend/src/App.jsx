@@ -55,6 +55,7 @@ function App() {
   }
 
   return (
+    <div className='bg-red'>
     <div className="App">
       <h1>Employee Table</h1>
 
@@ -147,6 +148,7 @@ function App() {
           Next
         </button>
       </div>
+    </div>
     </div>
   );
 }
